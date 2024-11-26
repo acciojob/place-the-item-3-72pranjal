@@ -2,9 +2,9 @@
 /* Your CSS Code here. */
 .holder {
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-evenly;
 	flex-wrap: wrap
 }
 .holder .item {
-	flex: 0 0 33.33%
+	/* flex: 0 0 33.33% */
 }
